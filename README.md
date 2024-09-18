@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Kishan Patel
-- 🌱 I’m currently learning Data Science and Software Engineering
-- 📫 How to reach me: By Email :)
+- 🌱 I’m currently pursuing Bachelor of Computer Science
+- ✨ I am really interested to learn new skills and make new project for career aspiration
+-  📫If you areb the same, see how to reach me by Email :)
 - 😄 Pronouns: (He/Him)
 - ⚡ Have Fun and Enjoy CompSci
 
