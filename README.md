@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kishan</h1>
-<h3 align="center">🌱 I’m currently pursuing Bachelor of Computer Science ✨ I am really interested to learn new skills and make new project for career aspiration 📫 If you areb the same, see how to reach me by Email :) 😄 Pronouns: (He/Him)</h3>
+<h3 align="center">🌱 I’m currently pursuing Bachelor of Computer Science ✨ I am really interested to learn new skills and make new project for career aspiration 📫 If you are the same, see how to reach me by Email :) 😄 Pronouns: (He/Him)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kpatel-24&label=Profile%20views&color=0e75b6&style=flat" alt="kpatel-24" /> </p>
 
